@@ -4,7 +4,7 @@ export default function () {
             <div className="container mx-auto px-6">
                 <div className="flex items-center flex-col  sm:flex-row sm:flex sm:items-center sm:justify-between py-4">
                     <div className="sm:flex-shrink-0">
-                        <p className="text-gray-400">© 2023 daydream</p>
+                        <p className="bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">© 2025 daydream</p>
                     </div>
                     <div className="mt-4 sm:mt-0 sm:ml-4">
                         <ul className="sm:flex items-center">

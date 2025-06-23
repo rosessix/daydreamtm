@@ -11,7 +11,7 @@ export default function () {
                                 doorway to the great nothing
                             </h1>
                             <p className="my-2 text-gray-800">Sorry about that! Please visit our hompage to get where you need to go.</p>
-                            <Link className="w-full lg:w-auto border rounded-xl md absolute py-4 px-8 text-center bg-indigo-600 text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-700 focus:ring-opacity-50" to="/">Go back to safety!</Link>
+                            <Link className="w-full lg:w-auto border rounded-xl md absolute py-4 px-8 text-center bg-gradient-to-r from-purple-600 text-white to-blue-500 focus:outline-none focus:ring-2 focus:ring-indigo-700 focus:ring-opacity-50" to="/">Go back to safety!</Link>
                         </div>
                     </div>
                     <div>
